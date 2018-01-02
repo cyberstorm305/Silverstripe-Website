@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c91bfaec-b78b-4188-aaae-c15410eb5f48" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SSViewer::set_theme</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/assets/gulpfile.js" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/assets/package.json" />
+        <option value="$PROJECT_DIR$/mysite/_config.php" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/templates/Includes/Header.ss" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/composer.json" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/templates/Page.ss" />
+        <option value="$PROJECT_DIR$/mysite/_config/theme.yml" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/templates/Includes/SideBar.ss" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/templates/Includes/Footer.ss" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/templates/Layout/Page.ss" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/assets/sass/components/_menu.scss" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/assets/sass/components/_components.scss" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/assets/sass/template.scss" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/assets/sass/settings/_settings.scss" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/templates/Home.ss.ss" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/templates/Layout/Homepage.ss" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/templates/Home.ss" />
+        <option value="$PROJECT_DIR$/mysite/code/Home.php" />
+        <option value="$PROJECT_DIR$/mysite/code/HomeController.php" />
+        <option value="$PROJECT_DIR$/themes/birminghamjazz/templates/Includes/Navigation.ss" />
+        <option value="$PROJECT_DIR$/productssystem/code/Products.php" />
+        <option value="$PROJECT_DIR$/productssystem/_config.php" />
+        <option value="$PROJECT_DIR$/productssystem/_config/routes.yml" />
+        <option value="$PROJECT_DIR$/productssystem/_config/extensions.yml" />
+        <option value="$PROJECT_DIR$/productssystem/code/Category.php" />
+        <option value="$PROJECT_DIR$/productssystem/code/Product.php" />
+        <option value="$PROJECT_DIR$/productssystem/code/ShopAdmin.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/themes/birminghamjazz/assets/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="silverstripe-birminghamjazz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="silverstripe-birminghamjazz" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="silverstripe-birminghamjazz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="silverstripe-birminghamjazz" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="featuredsystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="silverstripe-birminghamjazz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="silverstripe-birminghamjazz" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="productssystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="silverstripe-birminghamjazz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="silverstripe-birminghamjazz" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="productssystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="silverstripe-birminghamjazz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="silverstripe-birminghamjazz" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="productssystem" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="entities" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/sites" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/themes/simple/templates/Layout/Page.ss&#10;/Users/Cyberstorm/Sites/silverstripe-birminghamjazz/themes/simple/composer.json" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/productssystem/code/entitys" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysite/code" />
+      <recent name="$PROJECT_DIR$/themes/birminghamjazz" />
+      <recent name="$PROJECT_DIR$/themes/birminghamjazz/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c91bfaec-b78b-4188-aaae-c15410eb5f48" name="Default" comment="" />
+      <created>1514898212358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514898212358</updated>
+      <workItem from="1514898217744" duration="3807000" />
+      <workItem from="1514902087028" duration="10002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13809000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Scheme.REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/simple/templates/Layout/Page.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/simple/javascript/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/simple/code-of-conduct.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/simple/templates/Page.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/assets/node_modules/sierra-library/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/assets/node_modules/sierra-library/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-974">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/css/sierra.css" />
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/assets/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/assets/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <marker date="1514901232321" expanded="true" signature="0:882" ph="{&quot;name&quot;: &quot;birminghamjazz&quot;...}" />
+            <marker date="1514901232321" expanded="true" signature="113:149" ph="{&quot;sierra-library&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1514901232321" expanded="true" signature="172:766" ph="{&quot;sierra-library&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1514901232321" expanded="true" signature="781:844" ph="{&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/assets/sass/components/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/error-404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1218">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514897975000" expanded="true" signature="20:408" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="450:3781" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="660:1699" ph="..." />
+            <marker date="1514897975000" expanded="false" signature="764:771" ph="»" />
+            <marker date="1514897975000" expanded="true" signature="1147:1242" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="1736:3773" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="1774:2321" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="1795:2311" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="1834:2303" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="1900:1975" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2004:2293" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2050:2286" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2353:2763" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2390:2756" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2430:2441" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2497:2748" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2508:2735" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2806:3566" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2827:3556" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2866:3548" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2888:3329" ph="..." />
+            <marker date="1514897975000" expanded="false" signature="2999:3005" ph="→" />
+            <marker date="1514897975000" expanded="true" signature="3033:3322" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="3079:3315" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/error-500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1206">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514897975000" expanded="true" signature="20:408" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="450:3674" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="660:1697" ph="..." />
+            <marker date="1514897975000" expanded="false" signature="762:769" ph="»" />
+            <marker date="1514897975000" expanded="true" signature="1145:1240" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="1734:3666" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="1772:2319" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="1793:2309" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="1832:2301" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="1898:1973" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2002:2291" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2048:2284" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2351:2656" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2388:2649" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2428:2439" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2495:2641" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2506:2628" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2699:3459" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2720:3449" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2759:3441" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2781:3222" ph="..." />
+            <marker date="1514897975000" expanded="false" signature="2892:2898" ph="→" />
+            <marker date="1514897975000" expanded="true" signature="2926:3215" ph="..." />
+            <marker date="1514897975000" expanded="true" signature="2972:3208" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/_config/mysite.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514896432000" expanded="true" signature="0:19" ph="---" />
+            <marker date="1514896432000" expanded="true" signature="10:19" ph="myproject" />
+            <marker date="1514896432000" expanded="true" signature="20:84" ph="---" />
+            <marker date="1514896432000" expanded="true" signature="24:84" ph="SilverStr…leManifest: &lt;1 key&gt;" />
+            <marker date="1514896432000" expanded="true" signature="78:84" ph="mysite" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/simple/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1514896443000" expanded="true" signature="0:546" ph="{&quot;name&quot;: &quot;silverstripe-themes/simple&quot;...}" />
+            <marker date="1514896443000" expanded="true" signature="250:373" ph="[...]" />
+            <marker date="1514896443000" expanded="true" signature="260:367" ph="{&quot;name&quot;: &quot;Sara Tušar (Innovaif)&quot;...}" />
+            <marker date="1514896443000" expanded="true" signature="390:475" ph="{&quot;composer/installers&quot;: &quot;*&quot;...}" />
+            <marker date="1514896443000" expanded="true" signature="487:544" ph="{...}" />
+            <marker date="1514896443000" expanded="true" signature="507:541" ph="{&quot;dev-master&quot;: &quot;3.2.x-dev&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/simple/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/simple/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <marker date="1514916391339" expanded="true" signature="0:428" ph="{&quot;name&quot;: &quot;silverstripe-themes/birminghamjazz&quot;...}" />
+            <marker date="1514916391339" expanded="true" signature="204:258" ph="[...]" />
+            <marker date="1514916391339" expanded="true" signature="210:254" ph="{&quot;name&quot;: &quot;christopher Thompson&quot;...}" />
+            <marker date="1514916391339" expanded="true" signature="273:348" ph="{&quot;composer/installers&quot;: &quot;*&quot;...}" />
+            <marker date="1514916391339" expanded="true" signature="361:426" ph="{...}" />
+            <marker date="1514916391339" expanded="true" signature="383:422" ph="{&quot;dev-master&quot;: &quot;3.2.x-dev&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/javascript/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/_config/theme.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1514916706312" expanded="true" signature="0:24" ph="---" />
+            <marker date="1514916706312" expanded="true" signature="10:24" ph="birminghamjazz" />
+            <marker date="1514916706312" expanded="true" signature="25:156" ph="---" />
+            <marker date="1514916706312" expanded="true" signature="29:106" ph="SilverStr…w\SSViewer: &lt;1 key&gt;" />
+            <marker date="1514916706312" expanded="true" signature="59:106" ph="themes: &lt;2 items&gt;" />
+            <marker date="1514916706312" expanded="true" signature="73:89" ph="birminghamjazz" />
+            <marker date="1514916706312" expanded="true" signature="96:106" ph="$default" />
+            <marker date="1514916706312" expanded="true" signature="107:156" ph="SilverStr…\i18n\i18n: &lt;1 key&gt;" />
+            <marker date="1514916706312" expanded="true" signature="149:156" ph="en_GB" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/simple/templates/Includes/Navigation.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1514896443000" expanded="true" signature="20:206" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="66:199" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="87:191" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Includes/BreadCrumbs.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514896443000" expanded="true" signature="16:79" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="41:67" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Includes/Header.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Includes/SideBar.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1514916869577" expanded="true" signature="23:227" ph="..." />
+            <marker date="1514916869577" expanded="true" signature="41:217" ph="..." />
+            <marker date="1514916869577" expanded="true" signature="68:204" ph="..." />
+            <marker date="1514916869577" expanded="true" signature="91:194" ph="..." />
+            <marker date="1514916869577" expanded="true" signature="101:127" ph="..." />
+            <marker date="1514916869577" expanded="true" signature="136:177" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Includes/SidebarMenu.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <marker date="1514896443000" expanded="true" signature="71:461" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="91:448" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="114:434" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="144:418" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="220:314" ph="..." />
+            <marker date="1514896443000" expanded="false" signature="247:253" ph="→" />
+            <marker date="1514896443000" expanded="true" signature="337:407" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="348:391" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Includes/Footer.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <marker date="1514916999224" expanded="true" signature="41:85" ph="..." />
+            <marker date="1514916999224" expanded="true" signature="66:75" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/assets/sass/components/_menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding>
+            <marker date="1514917193155" expanded="true" signature="5:72" ph="{...}" />
+            <marker date="1514917193155" expanded="true" signature="11:70" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/assets/sass/components/_components.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/css/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="1" column="72931" lean-forward="true" selection-start-line="1" selection-start-column="72931" selection-end-line="1" selection-end-column="72931" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/assets/sass/template.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/assets/sass/settings/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4796">
+          <caret line="270" column="3" lean-forward="true" selection-start-line="270" selection-start-column="3" selection-end-line="270" selection-end-column="3" />
+          <folding>
+            <marker date="1514917639183" expanded="true" signature="0:84" ph="/*...*/" />
+            <marker date="1514917639183" expanded="true" signature="1164:1570" ph="(...)" />
+            <marker date="1514917639183" expanded="true" signature="1574:1831" ph="/*...*/" />
+            <marker date="1514917639183" expanded="true" signature="1856:1874" ph="/*...*/" />
+            <marker date="1514917639183" expanded="true" signature="2085:2122" ph="/*...*/" />
+            <marker date="1514917639183" expanded="true" signature="3354:3394" ph="/*...*/" />
+            <marker date="1514917639183" expanded="true" signature="4444:4466" ph="/*...*/" />
+            <marker date="1514917639183" expanded="true" signature="4512:4968" ph="(...)" />
+            <marker date="1514917639183" expanded="true" signature="5074:5386" ph="(...)" />
+            <marker date="1514917639183" expanded="true" signature="5605:6407" ph="(...)" />
+            <marker date="1514917639183" expanded="true" signature="5625:5766" ph="(...)" />
+            <marker date="1514917639183" expanded="true" signature="5783:5924" ph="(...)" />
+            <marker date="1514917639183" expanded="true" signature="5943:6085" ph="(...)" />
+            <marker date="1514917639183" expanded="true" signature="6103:6244" ph="(...)" />
+            <marker date="1514917639183" expanded="true" signature="6264:6405" ph="(...)" />
+            <marker date="1514917639183" expanded="true" signature="7243:7546" ph="(...)" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Home.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/code/Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1514896440000" expanded="true" signature="72:140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/code/PageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <marker date="1514896440000" expanded="true" signature="106:967" ph="{...}" />
+            <marker date="1514896440000" expanded="true" signature="116:692" ph=" An array of actions that can be accessed via a request. Each array element should be an action name, and the ..." />
+            <marker date="1514896440000" expanded="true" signature="767:965" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Layout/Home.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Layout/Page.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514917042231" expanded="true" signature="16:193" ph="..." />
+            <marker date="1514917042231" expanded="true" signature="66:186" ph="..." />
+            <marker date="1514917042231" expanded="true" signature="84:151" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Layout/Page_results.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1514896443000" expanded="true" signature="39:1782" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="79:169" ph="..." />
+            <marker date="1514896443000" expanded="false" signature="130:136" ph="&quot;" />
+            <marker date="1514896443000" expanded="false" signature="144:150" ph="&quot;" />
+            <marker date="1514896443000" expanded="true" signature="192:898" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="221:803" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="248:792" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="262:770" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="279:513" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="312:495" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="351:473" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="542:617" ph="..." />
+            <marker date="1514896443000" expanded="false" signature="730:736" ph="&quot;" />
+            <marker date="1514896443000" expanded="false" signature="744:750" ph="&quot;" />
+            <marker date="1514896443000" expanded="true" signature="937:1774" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="965:1758" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="998:1683" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="1040:1160" ph="..." />
+            <marker date="1514896443000" expanded="false" signature="1127:1133" ph="←" />
+            <marker date="1514896443000" expanded="true" signature="1180:1510" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="1221:1489" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="1263:1458" ph="..." />
+            <marker date="1514896443000" expanded="true" signature="1551:1667" ph="..." />
+            <marker date="1514896443000" expanded="false" signature="1634:1640" ph="→" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/code/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1514919780216" expanded="true" signature="30:98" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/code/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1514919784144" expanded="true" signature="50:326" ph="{...}" />
+            <marker date="1514919784144" expanded="true" signature="125:323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Page.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <marker date="1514916663971" expanded="true" signature="62:2033" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="85:149" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="157:221" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="229:293" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="302:928" ph="..." />
+            <marker date="1514916663971" expanded="false" signature="392:399" ph="»" />
+            <marker date="1514916663971" expanded="true" signature="665:766" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="991:2025" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1041:1781" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1069:1771" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1095:1760" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1130:1650" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1192:1393" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1287:1371" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1429:1630" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1539:1602" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1685:1745" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1813:1875" ph="..." />
+            <marker date="1514916663971" expanded="true" signature="1841:1868" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/birminghamjazz/templates/Includes/Navigation.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1514919825519" expanded="true" signature="17:163" ph="..." />
+            <marker date="1514919825519" expanded="true" signature="23:156" ph="..." />
+            <marker date="1514919825519" expanded="true" signature="44:148" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productssystem/_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productssystem/_config/extensions.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productssystem/_config/routes.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install-frameworkmissing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productssystem/code/entities/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <marker date="1514921868527" expanded="true" signature="10:76" ph="..." />
+            <marker date="1514921868527" expanded="true" signature="110:1175" ph="{...}" />
+            <marker date="1514921868527" expanded="true" signature="149:212" ph="..." />
+            <marker date="1514921868527" expanded="true" signature="254:291" ph="..." />
+            <marker date="1514921868527" expanded="true" signature="321:421" ph="..." />
+            <marker date="1514921868527" expanded="true" signature="456:494" ph="..." />
+            <marker date="1514921868527" expanded="true" signature="539:582" ph="..." />
+            <marker date="1514921868527" expanded="true" signature="644:730" ph="{...}" />
+            <marker date="1514921868527" expanded="true" signature="790:876" ph="{...}" />
+            <marker date="1514921868527" expanded="true" signature="938:1024" ph="{...}" />
+            <marker date="1514921868527" expanded="true" signature="1086:1172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productssystem/code/entities/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <marker date="1514921774146" expanded="true" signature="11:77" ph="..." />
+            <marker date="1514921774146" expanded="true" signature="112:838" ph="{...}" />
+            <marker date="1514921774146" expanded="true" signature="142:173" ph="..." />
+            <marker date="1514921774146" expanded="true" signature="209:246" ph="..." />
+            <marker date="1514921774146" expanded="true" signature="308:394" ph="{...}" />
+            <marker date="1514921774146" expanded="true" signature="454:540" ph="{...}" />
+            <marker date="1514921774146" expanded="true" signature="602:688" ph="{...}" />
+            <marker date="1514921774146" expanded="true" signature="750:836" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productssystem/code/ShopAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <marker date="1514925296717" expanded="true" signature="11:79" ph="..." />
+            <marker date="1514925296717" expanded="true" signature="115:332" ph="{...}" />
+            <marker date="1514925296717" expanded="true" signature="156:199" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
